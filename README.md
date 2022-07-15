@@ -5,3 +5,4 @@
 - 📫 How to reach me ... ve3suy@gmail.com, (250) 213-6075, 2-2296 Henry Ave. Sidney, BC Canada V8L 2B2.
 - 
 *** I would like to talk to anyone about getting the Jetson Nano working with docker files! ***
+*** Currently, I do NOT appear to have access to the training docker files ***
